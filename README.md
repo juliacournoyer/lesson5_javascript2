@@ -4,19 +4,19 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+February 22, 2917
 
 ### Student Name:  
-(First and Last Name)
+Julia Cournoyer
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+Using control statements, we can manipulate code and functions based off of what specifications we set.
 
 ### View Project:
 (Replace this statement with your Github Page URL that was created when you 
  published the project.)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. How to write control statements
+2. How to create reusable code with varuous functions
+3. Primitive vs Composite types
